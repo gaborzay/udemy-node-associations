@@ -7,12 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
-    "url": "git+ssh://git@bitbucket.org/gaborthewizard/associations.git"
+    "type": "git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/gaborthewizard/associations#readme",
   "dependencies": {
     "mongoose": "^5.3.3"
   }
